@@ -1,0 +1,7 @@
+SCVMM 2012	: http://techgenix.com/system-center-2012-virtual-machine-manager-part1/
+		: http://www.sysadmintutorials.com/new-microsoft-system-center-2012-r2-vmm-tutorial/
+Create Cloud	: http://kristiannese.blogspot.hr/2011/03/how-to-create-cloud-in-vmm-2012.html
+Tier Service	: https://technet.microsoft.com/en-us/library/hh410345(v=sc.12).aspx
+Servicing Window: https://technet.microsoft.com/en-us/library/hh416221(v=sc.12).aspx
+Quota Points	: http://mctexpert.blogspot.hr/2011/03/how-to-set-quota-points-for-vms-in-vmm.html
+Create VM	: https://technet.microsoft.com/en-us/library/bb963715.aspx
